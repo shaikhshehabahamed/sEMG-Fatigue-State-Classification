@@ -1,0 +1,14 @@
+{
+  "data_root": "./data",
+  "cache_dir": "./semg_feature_cache",
+  "window_sec": 1.0,
+  "stride_sec": 0.5,
+  "use_mvc": true,
+  "disable_filters": false,
+  "bandpass_low": 20.0,
+  "bandpass_high": 450.0,
+  "notch_hz": 50.0,
+  "include_progress_features": true,
+  "subject_limit": null,
+  "rebuild_cache": true
+}

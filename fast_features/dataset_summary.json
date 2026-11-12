@@ -1,0 +1,24 @@
+{
+  "n_windows": 73470,
+  "n_features": 128,
+  "subjects": [
+    "subject_1",
+    "subject_2",
+    "subject_3",
+    "subject_4",
+    "subject_5",
+    "subject_6",
+    "subject_7",
+    "subject_8",
+    "subject_9",
+    "subject_10",
+    "subject_11",
+    "subject_12",
+    "subject_13"
+  ],
+  "label_counts": {
+    "0": 24780,
+    "1": 23780,
+    "2": 24910
+  }
+}

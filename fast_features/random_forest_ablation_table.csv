@@ -1,0 +1,4 @@
+variant,mean_macro_f1,std_macro_f1,mean_cohen_kappa,std_cohen_kappa,mean_mcc,std_mcc
+mono,0.7129,0.0809,0.5843,0.1091,0.6048,0.1006
+progress,0.7156,0.0796,0.5876,0.1082,0.609,0.0999
+raw,0.7003,0.0744,0.5661,0.0997,0.5865,0.0904
